@@ -1,4 +1,4 @@
-# Finans-Site
+# Finans Site
 
 Projetinho de final de semana pra treinar o desenvolvimento web reponsivo.
 Futuramente ele terá o back-end desenvolvido.
